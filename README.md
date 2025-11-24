@@ -55,7 +55,7 @@ Instalação
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/corrida-estatistica.git
+git clone https://github.com/sam-abreu/corrida-estatistica.git
 cd corrida-estatistica
 Instale as dependências:
 
